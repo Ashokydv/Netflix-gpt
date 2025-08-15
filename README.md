@@ -26,7 +26,10 @@ Create Redux Store
 -Fetch data for trailer video
 -update the store with trailer videos
 -Embedded the trailer video
-
+-build secondary component
+-build Movie List
+-build Movie Card
+-Build image CDN url
 
 
 

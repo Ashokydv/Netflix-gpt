@@ -10,3 +10,6 @@ export const USER_ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCA
     Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxYWJiNGJmMWU3YWU1MTc1YTMxNjAxOTYzOTYxNGY0NyIsIm5iZiI6MTc1NDk4NzIwMi44OTc5OTk4LCJzdWIiOiI2ODlhZmFjMjY3OTE4NzJlMWE2ZDc2ODEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.jWLDeWz8As8CzKFUOHe2AXXrWoV8Y_9w4_Qf2SxArpU'
   }
 };
+
+export const IMG_CDN_URL="https://image.tmdb.org/t/p/w200";
+
