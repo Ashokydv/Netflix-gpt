@@ -15,6 +15,19 @@ Create Redux Store
 -use of useSelector hook
 -implement signOut
 -update profile
+-unsubscribed to the onAuthStateChange callback
+-add value to the constant file
+-Register tmdb Api and create an app and get access token
+-Get data from TMDB
+-Create custom hooks for nowplaying movies
+
+-create  movieSlice
+-Update Store with movies Data
+-Fetch data for trailer video
+-update the store with trailer videos
+-Embedded the trailer video
+
+
 
 
 # Featured
